@@ -336,3 +336,4 @@
 2025-11-08 13:34:01 fix encoding issue
 2025-01-09 01:48:48 improve UX
 2025-10-20 17:01:50 patch memory leak
+2025-01-09 09:45:48 add fallback
