@@ -1,0 +1,8 @@
+transformers==4.38.1
+torch==2.1.2
+psutil
+googlesearch-python
+requests==2.31.0
+beautifulsoup4==4.12.3
+spacy
+accelerate

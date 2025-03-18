@@ -1,0 +1,283 @@
+{
+  "timestamp": "2025-03-18T01:20:08.838255",
+  "asset": "ethereum",
+  "research_types": [
+    "price"
+  ],
+  "price_analysis": {
+    "prices": [
+      2.0,
+      0.15,
+      10000.0,
+      2.7,
+      2400.0,
+      5000.0,
+      2500.0,
+      26.6,
+      4000.0,
+      2000.0,
+      10.0,
+      83000.0,
+      2000.0,
+      4.0,
+      46.8,
+      52.0,
+      5000.0,
+      83000.0,
+      1758.0,
+      4000.0,
+      1700.0,
+      4000.0,
+      3921.1,
+      2000.0,
+      3824.76,
+      2000.0,
+      83869.0,
+      1000.0,
+      3812.5,
+      1929.0,
+      3.1,
+      82000.0,
+      1900.0,
+      2500.0,
+      5000.0,
+      86000.0,
+      15.0,
+      4000.0,
+      2000.0,
+      183.0,
+      2000.0,
+      83000.0,
+      4.0,
+      1860.0
+    ],
+    "average_price": 13257.357045454544,
+    "price_range": {
+      "min": 0.15,
+      "max": 86000.0
+    },
+    "sources_count": 44,
+    "source_details": [
+      {
+        "url": "https://cointelegraph.com/news/ethereum-onchain-data-2k-eth-price-out-of-reach",
+        "title": "Ethereum onchain data suggests $2K ETH price is out of reach for now",
+        "price": 2.0
+      },
+      {
+        "url": "https://thefinancialanalyst.net/2025/03/12/dogecoin-at-critical-juncture-bullish-signals-emerge-at-0-158",
+        "title": "Dogecoin at Critical Juncture: Bullish Signals Emerge at $0.158",
+        "price": 0.15
+      },
+      {
+        "url": "https://invezz.com/news/2025/03/13/top-investor-says-ethereum-price-will-surpass-10000-and-mutuum-finance-mutm-to-reach-5-from-0-02",
+        "title": "Top investor says Ethereum price will surpass $10,000 and Mutuum Finance (MUTM)...",
+        "price": 10000.0
+      },
+      {
+        "url": "https://benzinga.com/markets/cryptocurrency/25/03/44365451/bitcoin-ethereum-xrp-dogecoin-bounce-back-to-green-ready-for-a-squeeze-trader-says",
+        "title": "Bitcoin, Ethereum, XRP, Dogecoin Bounce Back To Green: 'Ready For A Squeeze,'...",
+        "price": 2.7
+      },
+      {
+        "url": "https://thefinancialanalyst.net/2025/03/03/ethereum-surges-past-2400-faces-resistance-at-2550",
+        "title": "Ethereum Surges Past $2,400, Faces Resistance at $2,550",
+        "price": 2400.0
+      },
+      {
+        "url": "https://coinpedia.org/price-prediction/market-price-prediction-ethereum-2019",
+        "title": "Ethereum Price Prediction 2025, 2026-2030: Will $ETH Hit $5,000?",
+        "price": 5000.0
+      },
+      {
+        "url": "https://cointelegraph.com/news/ethereum-can-outperform-rivals-crashing-17-month-lows",
+        "title": "3 reasons why Ethereum can outperform its rivals after crashing to 17-month lows",
+        "price": 2500.0
+      },
+      {
+        "url": "https://insidebitcoins.com/sponsored/solana-price-prediction-sol-plunges-5-as-traders-pivot-to-this-26-6m-layer-2-meme-coin-offering-a-153-apy",
+        "title": "Solana Price Prediction: SOL Plunges 5% As Traders Pivot To This $26.6M Layer-2...",
+        "price": 26.6
+      },
+      {
+        "url": "https://analyticsinsight.net/ethereum/ethereum-price-prediction-will-it-reach-4000-in-2025",
+        "title": "Ethereum Price Prediction: Will it Reach $4,000 in 2025?",
+        "price": 4000.0
+      },
+      {
+        "url": "https://msn.com/en-us/money/markets/ethereum-eth-below-2000-key-indicators-point-to-imminent-price-recovery/ar-AA1B63lh?ocid=BingNewsVerp",
+        "title": "Ethereum (ETH) Below $2,000: Key Indicators Point to Imminent Price Recovery",
+        "price": 2000.0
+      },
+      {
+        "url": "https://fxempire.com/forecasts/article/ethereum-to-10k-is-possible-this-cycle-fractal-analysis-1504035",
+        "title": "Ethereum to $10K is Possible This Cycle \u2014 Fractal Analysis",
+        "price": 10.0
+      },
+      {
+        "url": "https://fxstreet.com/cryptocurrencies/news/crypto-today-traders-discuss-solana-futures-and-ethereum-hoodi-update-as-bitcoin-price-stalls-at-83-000-202503171452",
+        "title": "Crypto Today: Traders discuss Solana futures and Ethereum Hoodi update as Bitcoin price stalls at $83,000",
+        "price": 83000.0
+      },
+      {
+        "url": "https://msn.com/en-us/money/markets/ethereum-eth-below-2000-key-indicators-point-to-imminent-price-recovery/ar-AA1B63lh",
+        "title": "Ethereum (ETH) Below $2,000: Key Indicators Point to Imminent Price Recovery",
+        "price": 2000.0
+      },
+      {
+        "url": "https://coindesk.com/markets/2025/03/17/ether-in-structural-decline-year-end-price-target-slashed-to-usd4k-standard-chartered",
+        "title": "Ether in Structural Decline, Year-End Price Target Slashed to $4K: Standard Chartered",
+        "price": 4.0
+      },
+      {
+        "url": "https://finance.yahoo.com/news/bitcoin-ethereum-cme-contracts-hit-150104943.html?fr=sycsrp_catchall",
+        "title": "Bitcoin, Ethereum CME Contracts Hit $46.8B in Trading Volume Last Month",
+        "price": 46.8
+      },
+      {
+        "url": "https://finance.yahoo.com/news/3-cryptocurrencies-surging-meme-coin-202852290.html?fr=sycsrp_catchall",
+        "title": "3 Cryptocurrencies Surging on Meme Coin Mania",
+        "price": 52.0
+      },
+      {
+        "url": "https://coinpedia.org/price-prediction/market-price-prediction-ethereum-2019",
+        "title": "Ethereum Price Prediction 2025, 2026-2030: Will $ETH Hit $5,000?",
+        "price": 5000.0
+      },
+      {
+        "url": "https://fxstreet.com/cryptocurrencies/ethereum",
+        "title": "ETHEREUM NEWS, ANALYSIS AND FORECAST",
+        "price": 83000.0
+      },
+      {
+        "url": "https://beincrypto.com/ethereum-network-activity-falls-inflation-risks",
+        "title": "Ethereum Network Activity Hits Yearly Lows as Inflation Risks Mount",
+        "price": 1758.0
+      },
+      {
+        "url": "https://finance.yahoo.com/news/ethereum-could-surge-70-own-175043865.html?fr=sycsrp_catchall",
+        "title": "Ethereum could surge 70% if its own ETF gets approved in May, Standard Chartered...",
+        "price": 4000.0
+      },
+      {
+        "url": "https://finance.yahoo.com/news/donald-trumps-nft-trading-cards-143109866.html?fr=sycsrp_catchall",
+        "title": "Donald Trump's NFT trading cards jumped in value after Manhattan indictment \u2014...",
+        "price": 1700.0
+      },
+      {
+        "url": "https://analyticsinsight.net/ethereum/ethereum-price-prediction-will-it-reach-4000-in-2025",
+        "title": "Ethereum Price Prediction: Will it Reach $4,000 in 2025?",
+        "price": 4000.0
+      },
+      {
+        "url": "https://in.investing.com/news/cryptocurrency-news/stanchart-cuts-ethereum-price-forecast-by-60-heres-the-new-2025end-target-4725102",
+        "title": "StanChart cuts Ethereum price forecast by 60%. Here\u2019s the new 2025-end target",
+        "price": 3921.1
+      },
+      {
+        "url": "https://msn.com/en-us/money/markets/ethereum-eth-below-2000-key-indicators-point-to-imminent-price-recovery/ar-AA1B63lh?ocid=BingNewsVerp",
+        "title": "Ethereum (ETH) Below $2,000: Key Indicators Point to Imminent Price Recovery",
+        "price": 2000.0
+      },
+      {
+        "url": "https://seekingalpha.com/article/4602798-ethereum-the-frog-meme-moment",
+        "title": "Ethereum: The Frog Meme Moment",
+        "price": 3824.76
+      },
+      {
+        "url": "https://msn.com/en-us/money/markets/ethereum-eth-below-2000-key-indicators-point-to-imminent-price-recovery/ar-AA1B63lh",
+        "title": "Ethereum (ETH) Below $2,000: Key Indicators Point to Imminent Price Recovery",
+        "price": 2000.0
+      },
+      {
+        "url": "https://decrypt.co/news-explorer?pinned=959558&title=bitcoin-and-ethereum-prices-slide-as-us-stock-futures-flash-signs-of-volatile-week-ahead",
+        "title": "News Explorer \u2014 Bitcoin and Ethereum Prices Slide as US Stock Futures Flash Signs of Volatile Week Ahead",
+        "price": 83869.0
+      },
+      {
+        "url": "https://fxstreet.com/cryptocurrencies/news/ethereum-price-forecast-defi-sector-could-be-at-huge-risk-if-eth-declines-to-1-000-202503142225",
+        "title": "Ethereum Price Forecast: DeFi sector could be at huge risk if ETH declines to $1,000",
+        "price": 1000.0
+      },
+      {
+        "url": "https://seekingalpha.com/article/4629702-grayscale-ethereum-trust-patience-will-be-rewarded",
+        "title": "Grayscale Ethereum Trust: Patience Will Be Rewarded",
+        "price": 3812.5
+      },
+      {
+        "url": "https://ca.investing.com/analysis/ethereum-eth-price-prediction-for-march-11-200614822",
+        "title": "Ethereum (ETH) Price Prediction for March 11 | Investing.com Canada",
+        "price": 1929.0
+      },
+      {
+        "url": "https://invezz.com/news/2025/03/12/goldman-sachs-banker-backs-mutuum-finance-mutm-to-gain-ground-on-ethereum-eth-and-cardano-ada-with-projected-5545-rally",
+        "title": "Goldman Sachs banker backs Mutuum Finance (MUTM) to gain ground on Ethereum...",
+        "price": 3.1
+      },
+      {
+        "url": "https://digitaljournal.com/pr/news/vehement-media/2025-bitcoin-ethereum-boom-earn-1126563367.html",
+        "title": "2025 Bitcoin and Ethereum Boom: Earn Passive Income with STG Energy Cloud Mining",
+        "price": 82000.0
+      },
+      {
+        "url": "https://cointelegraph.com/news/why-is-ethereum-eth-price-down-today",
+        "title": "Why is Ethereum (ETH) price down today?",
+        "price": 1900.0
+      },
+      {
+        "url": "https://cointelegraph.com/news/ethereum-can-outperform-rivals-crashing-17-month-lows",
+        "title": "3 reasons why Ethereum can outperform its rivals after crashing to 17-month lows",
+        "price": 2500.0
+      },
+      {
+        "url": "https://coinpedia.org/price-prediction/market-price-prediction-ethereum-2019",
+        "title": "Ethereum Price Prediction 2025, 2026-2030: Will $ETH Hit $5,000?",
+        "price": 5000.0
+      },
+      {
+        "url": "https://forbes.com/sites/digital-assets/2025/03/15/this-time-is-different-a-legendary-traders-huge-cryptic-bitcoin-price-prediction-is-suddenly-coming-true",
+        "title": "\u2018This Time Is Different\u2019\u2014A Legendary Trader\u2019s Huge, Cryptic Bitcoin Price Prediction Is Suddenly Coming True",
+        "price": 86000.0
+      },
+      {
+        "url": "https://digitaljournal.com/pr/news/24-7-press-release/use-stg-energy-free-cloud-1956311549.html",
+        "title": "Use STG Energy Free Cloud Mining Platform to Earn Passive Income Every Day",
+        "price": 15.0
+      },
+      {
+        "url": "https://analyticsinsight.net/ethereum/ethereum-price-prediction-will-it-reach-4000-in-2025",
+        "title": "Ethereum Price Prediction: Will it Reach $4,000 in 2025?",
+        "price": 4000.0
+      },
+      {
+        "url": "https://msn.com/en-us/money/markets/ethereum-eth-below-2000-key-indicators-point-to-imminent-price-recovery/ar-AA1B63lh?ocid=BingNewsVerp",
+        "title": "Ethereum (ETH) Below $2,000: Key Indicators Point to Imminent Price Recovery",
+        "price": 2000.0
+      },
+      {
+        "url": "https://247wallst.com/investing/2025/03/06/why-xrp-is-a-top-crypto-to-own-right-now",
+        "title": "Why XRP Is a Top Crypto to Own Right Now",
+        "price": 183.0
+      },
+      {
+        "url": "https://msn.com/en-us/money/markets/ethereum-eth-below-2000-key-indicators-point-to-imminent-price-recovery/ar-AA1B63lh",
+        "title": "Ethereum (ETH) Below $2,000: Key Indicators Point to Imminent Price Recovery",
+        "price": 2000.0
+      },
+      {
+        "url": "https://fxstreet.com/cryptocurrencies/news/crypto-today-traders-discuss-solana-futures-and-ethereum-hoodi-update-as-bitcoin-price-stalls-at-83-000-202503171452",
+        "title": "Crypto Today: Traders discuss Solana futures and Ethereum Hoodi update as Bitcoin price stalls at $83,000",
+        "price": 83000.0
+      },
+      {
+        "url": "https://coindesk.com/markets/2025/03/17/ether-in-structural-decline-year-end-price-target-slashed-to-usd4k-standard-chartered",
+        "title": "Ether in Structural Decline, Year-End Price Target Slashed to $4K: Standard Chartered",
+        "price": 4.0
+      },
+      {
+        "url": "https://fxstreet.com/cryptocurrencies/news/ethereum-price-forecast-staking-could-be-catalyst-to-drive-eths-price-more-than-pectra-upgrade-k33-research-202503130550",
+        "title": "Ethereum Price Forecast: Staking could be catalyst to drive ETH's price 'more than Pectra upgrade': K33 Research",
+        "price": 1860.0
+      }
+    ]
+  }
+}
