@@ -689,3 +689,4 @@
 2025-05-24 12:49:20 fix type error
 2025-09-08 15:31:19 add unit tests
 2025-04-21 01:53:55 fix timezone issue
+2025-05-04 22:23:39 update configs for prod
