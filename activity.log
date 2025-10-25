@@ -677,3 +677,4 @@
 2025-10-24 04:49:31 restructure project
 2025-10-15 16:20:38 update gitignore
 2025-10-12 23:50:26 update docs with examples
+2025-10-25 22:53:47 fix docker build
